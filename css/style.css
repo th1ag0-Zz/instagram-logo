@@ -1,0 +1,44 @@
+.box {
+    border-radius: 90px;
+    margin: 50px auto;
+    background-image: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+    width: 400px;
+    height: 400px;
+}
+  
+.box1 {
+    border-radius: 50px;
+    display: inline-block;
+    margin: 40px;
+    background-color: white;
+    width: 320px;
+    height: 320px;
+}
+ 
+.circle {
+    border-radius: 50%;
+    display: inline-block;
+    margin: -20px 50px;
+    width: 220px;
+    height: 220px;
+    background-image: linear-gradient(45deg, #fa7e1e, #d62976, #962fbf);
+}
+  
+.bg-cicle {
+    border-radius: 50%;
+    display: inline-block;
+    margin: 35px;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+} 
+  
+.small-circle {
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 30px;
+    width: 40px;
+    height: 40px;
+    background-image: linear-gradient(45deg, #d62976, #962fbf, #4f5bd5);
+}
